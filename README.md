@@ -79,9 +79,9 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:rglsrsh@gmail.com" target='_blank'><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://github.com/Ragul13803"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://linkedin.com/in/ragul-suresh13802"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="mailto:rglsrsh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://github.com/Ragul13803" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://linkedin.com/in/ragul-suresh13802" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
 </p>
 
 ---
