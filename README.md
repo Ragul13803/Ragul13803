@@ -1,7 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Ragul Suresh</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Front-End Enthusiast | 🎨 UI/UX Builder</h3>
-
+<h3 align="center">💻 Full Stack Developer | 🚀 Front-End Enthusiast | 🎨 UI Builder</h3>
 <p align="center">
   <a href="https://ragul-suresh-portfolio.netlify.app/">🌐 Portfolio</a> •
   📞 (+91) 9789 150 194 • 
@@ -22,7 +21,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,redux,tailwind,materialui,mongodb,postgres,git,github,gitlab,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,redux,tailwind,materialui,ionic,mongodb,mysql,postgres,git,github,gitlab,html,css&theme=light" />
 </p>
 
 ---
@@ -99,10 +98,10 @@
 
 ### Technical Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks:** React.js, Next.js, Express.js, Redux Toolkit  
+- **Frameworks/Libraries:** React.js, Next.js, Express.js, Redux Toolkit, Ionic  
 - **Databases:** MongoDB, MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, GitLab, VS Code, Postman  
-- **Concepts:** REST APIs, Agile, SDLC, OOPS, RBAC, WebSocket  
+- **Concepts:** REST APIs, Agile, SDLC, OOPS, RBAC, WebSocket
 
 ### Soft Skills
 Problem-Solving • Team Collaboration • Adaptability • Quick Learning
