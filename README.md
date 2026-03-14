@@ -21,8 +21,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,tailwind,materialui,mysql,git,github,gitlab,html,css&theme=light"/>
-<img src="https://skillicons.dev/icons?i=ionic&theme=light"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,tailwind,materialui,mysql,git,github,gitlab,html,css&theme=dark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="8"/>
 </p>
 
 ---
